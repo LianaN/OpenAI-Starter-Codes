@@ -1,0 +1,8 @@
+,topic,input,output,label,labeler,description,model score,author
+1,/light%20and%20visibility,How spotlight function is activated in S-Sedan?,The spotlight function is active under the following conditions: 1) You are driving outside illuminated areas 2) The system detects a lane marking.,pass,anonymous,,,
+2,/light%20and%20visibility,Can Adaptive Highbeam Assist take into account weather conditions?,No,pass,anonymous,,,
+3,/light%20and%20visibility,How to switch Adaptive Highbeam Assist on?,"1) Turn the light switch to the position. 2) Switch on the high beam using the combination switch. If Adaptive Highbeam Assist is activated, the indicator lamp will light up on the driver's display.",pass,anonymous,,,
+4,/light%20and%20visibility,How the headlamps adapt in Intelligent Light System?,"In this system, the headlamps adapt to the driving and weather situation.",pass,anonymous,,,
+430e09d3e60d4792bc3deb0859fe4c8a,,,,topic_marker,imputed,,,
+5,/light%20and%20visibility,Does the Intelligent Light System provide extended functions for improved illumination of the road?,Yes,pass,anonymous,,,
+f0ed4beaab4c49d98fd0d64295d97f2f,/light%20and%20visibility,,,topic_marker,imputed,,,
