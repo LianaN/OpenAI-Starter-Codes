@@ -1,0 +1,5 @@
+langchain
+unstructured[pdf]
+openai
+tiktoken
+azure-search-documents --pre
